@@ -1,4 +1,5 @@
-#About Me:
+# About Me:
+
 Hey there! I'm Jason—a creative technologist and workflow strategist exploring the intersection of automation, AI, and system design. I build tools and visual systems that turn complexity into clarity, whether it's organizing daily workflows or experimenting with sound and cymatics.
 
 ---
